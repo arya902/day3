@@ -1,0 +1,42 @@
+Q1) What is #include<stdio.h>
+
+#include<stdio.h> is used to include the standard library functions. # is a preprocessor directive. Standard library functions include functions like printf and scanf which are used to read and display. <stdio.h> is known as header file in c programming. It includes the declarations of various variable types.
+
+	Q2) What is printf?
+
+Printf is a standard library function. It is an inbuilt function which displays the result of an executed program.
+
+Q3) What is main?
+
+Main function is the entry point any c program.It is the point at which execution of program is started. Every program has a main() function, and  has a return type.
+
+Q4) What is a variable?
+
+Variable is a name given to the storage area that our programs can manipulate. Each variable in C has a specific data type assigned to it. Every variable has a specified size.
+	
+ Q5) What is type of a variable?
+Type of a variable determines the size and layout of a variable’s memory, and the range of values of   values that can be stored within that memory.
+
+Q6) What is & operator.
+
+& operator is a bit-wise operator. These operators are used to perform bit operations. Decimal values are converted to binary and operations are performed.
+
+Q7)  What is %d  in scanf and printf?
+
+%d is the format specifier for integers in C programming.
+
+Q8) What is the meaning of compilation of program?
+
+Compilation is a process of checking your program for any syntax or missing braces or missing semicolon.
+
+
+
+
+Q9) What is the meaning of running a program?
+Running a program means executing a program in the computer.
+The user asks the system to run the program and as a result system executes the program,so instead of saying executing we say running.
+
+Q10)List all syntax errors and reasons for the syntax errors
+A syntax error is an error in the source code of a program. Since computer programs must follow strict syntax to compile correctly, any aspects of the code that do not conform to the syntax of the programming.
+
+Syntax error re caused by misspelling or bad punctuation.
